@@ -1,12 +1,3 @@
-1- Création de particules
-2- Analyse Formes
-    a- shape différence
-    b- LDA
-    Anomaly detection
-          c- error reconstruction
-          d- LDA train test
-          e- Classicifation
-
 # Tutorial: Generating Correspondence Points with Python
 
 This repository contains a Python script to automatically generate **correspondence points** from a Label Map database.  
@@ -35,7 +26,7 @@ You can configure the path of the ZIP output folder at the end.
 ### Define optimization parameters  
 Adjust the **ShapeWorks optimization parameters** (iterations, regularization, etc.) inside the script.  
 
-📖 See the full documentation here: [ShapeWorks Parameters](https://sciinstitute.github.io/ShapeWorks/latest/parameter-files/)  
+📖 See the full documentation here: [ShapeWorks Parameters](https://sciinstitute.github.io/ShapeWorks/6.4/workflow/parameters.html)  
 
 <img width="622" height="693" alt="image" src="https://github.com/user-attachments/assets/10c2b1ab-4189-466f-b8f4-75724ba266b1" />
 
@@ -47,6 +38,10 @@ Run the script from the terminal:
 
 ```bash
 python pipelin_2.py
+```
+
+- You can retrieve the generated correspondence points in the created directory:  
+  `output_pipeline/run_1/output/[project_name]_particles`
 
 
 
