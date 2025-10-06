@@ -37,7 +37,7 @@ statistical-shape-models-sarcopenia/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<user>/statistical-shape-models-sarcopenia.git
+git clone https://github.com/gnomegai/statistical-shape-models-sarcopenia.git
 cd statistical-shape-models-sarcopenia
 ```
 
@@ -54,12 +54,6 @@ ShapeWorks provides a suite of tools for statistical shape modeling, including:
 
 Ensure the `shapeworks` command is available in your terminal before proceeding.
 
-### 3. Create the Conda environment
-
-```bash
-conda env create -f environment.yml
-conda activate sarcopenie-ssm
-```
 
 ---
 
