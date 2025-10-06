@@ -99,9 +99,3 @@ If you use this work, please cite or acknowledge:
 
 > "Evan Gossard, Statistical Shape Models for Sarcopenia Detection, 2025"
 
----
-
-## 📧 Contact
-
-For any questions or collaborations, please contact:
-**Evan Gossard** — [email protected]
