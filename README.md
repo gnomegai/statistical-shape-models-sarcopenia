@@ -44,7 +44,7 @@ cd statistical-shape-models-sarcopenia
 ### 2. Install ShapeWorks
 
 Download and install **ShapeWorks** from the official website:
-👉 [https://sciinstitute.github.io/ShapeWorks/latest/install.html](https://sciinstitute.github.io/ShapeWorks/latest/install.html)
+👉 [https://github.com/SCIInstitute/ShapeWorks](https://github.com/SCIInstitute/ShapeWorks)
 
 ShapeWorks provides a suite of tools for statistical shape modeling, including:
 
